@@ -1,0 +1,32 @@
+
+:root{
+    --bs-primary:#1ABC9C ;
+}
+.text-nav a:hover{
+    background-color: #1ABC9C ;
+
+
+}
+.pad{
+    padding: 40px 0px ;
+}
+
+nav{
+    padding: 40px 0px ;
+    transition: .6s;
+    font-weight: 900;
+}
+.text-nav a{
+    color: white;
+    margin: 0px 10px;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    transition: 1s;
+    border-radius: 10px;
+    cursor: pointer ;
+    text-transform: uppercase;
+ }
+button:focus{
+    background-color: #1ABC9C;
+}

@@ -1,0 +1,51 @@
+
+
+.port img{
+    border-radius: 10px;
+}
+.port:hover.port i{
+    bottom: 3%;
+}
+.port {
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    overflow: hidden;
+}
+.port i{
+position: absolute;
+bottom: -100%;
+width:94% ;
+height: 94%;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: #1abc9c94;
+font-size: 50px;
+border-radius: 10px;
+color: aliceblue;
+transition: .5s;
+}
+
+
+
+
+
+.staar i{
+    margin: -5px 5px 0px 5px;
+}
+.staar p{
+    background-color: black;
+    width: 150px;
+    height: 5px;
+}
+
+
+
+
+
+
+
+
+
